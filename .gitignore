@@ -1,0 +1,7 @@
+*.db
+*.duckdb
+.duckdb_temp/
+__pycache__/
+*.pyc
+.env
+locations.json
