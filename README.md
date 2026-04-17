@@ -1,4 +1,12 @@
 # IndiaAirQualityDashboard-
+
+TO TEST DASHBOARD ON YOUR DEVICE: 
+open and download air_quality_full.db from this public onedrive link:
+https://uob-my.sharepoint.com/:u:/g/personal/xf22161_bristol_ac_uk/IQDpfVB2f6NITri4u8CZLS8PAZgu6vNx3fk5mpswpddflec?e=yKp83x
+download app.py onto your device, then run bash script:
+streamlit run app.py
+
+
 Parameters covered
 PM₂.₅, PM₁₀, NO₂, O₃, SO₂, CO, temperature, relative humidity, wind speed, wind direction
 
@@ -74,3 +82,5 @@ Missing files are logged and skipped automatically.
 
 Launching the dashboard
 streamlit run app/app.py
+
+
