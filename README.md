@@ -2,7 +2,7 @@
 
 To explore dashboard on your device: 
 1. open and download air_quality_full.db and app.py from this public onedrive link:
-https://uob-my.sharepoint.com/:u:/g/personal/xf22161_bristol_ac_uk/IQDpfVB2f6NITri4u8CZLS8PAZgu6vNx3fk5mpswpddflec?e=yKp83x](https://uob-my.sharepoint.com/:f:/g/personal/xf22161_bristol_ac_uk/IgA_X__Zs5V6Q6ByPrSqeA-eAa10Uq6nbThfCV474tRP75g?e=dkQPQb)
+[https://uob-my.sharepoint.com/:u:/g/personal/xf22161_bristol_ac_uk/IQDpfVB2f6NITri4u8CZLS8PAZgu6vNx3fk5mpswpddflec?e=yKp83x](https://uob-my.sharepoint.com/:f:/g/personal/xf22161_bristol_ac_uk/IgA_X__Zs5V6Q6ByPrSqeA-eAa10Uq6nbThfCV474tRP75g?e=dkQPQb)](https://uob-my.sharepoint.com/:f:/g/personal/xf22161_bristol_ac_uk/IgA_X__Zs5V6Q6ByPrSqeA-eAa10Uq6nbThfCV474tRP75g?e=hawKd0)
 2. run bash script:
 streamlit run app.py
 
