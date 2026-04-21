@@ -13,10 +13,10 @@ PM₂.₅, PM₁₀, NO₂, O₃, SO₂, CO, temperature, relative humidity, win
 Project structure  
 ├── app2.py                     # Streamlit dashboard  
 ├── SQL/  
-│   ├── ddl/                    # Schema definitions (raw + presentation)  
-│   └── dml/
-│       ├── raw/                # Extraction insert template  
-│       └── presentation/       # Transformation SQL files (run in sorted order)  
+   ├── ddl/                    # Schema definitions (raw + presentation)  
+   └── dml/
+       ├── raw/                # Extraction insert template  
+       └── presentation/       # Transformation SQL files (run in sorted order)  
 ├── extraction.py               # OpenAQ S3 extraction pipeline  
 ├── transformation.py           # Runs SQL transformation files  
 ├── database_manager.py         # Schema initialisation and DB utilities  
