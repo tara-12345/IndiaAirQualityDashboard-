@@ -57,7 +57,7 @@ python database_manager.py --create \
   --database-path air_quality_full.db \
   --ddl-query-parent-dir sql/
 
-# Destroy the database (useful after extraction mistakes)
+Destroy the database (useful after extraction mistakes)
 python database_manager.py --destroy \
   --database-path air_quality_full.db
 
