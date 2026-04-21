@@ -49,7 +49,7 @@ Requirements
 pip install -r requirements.txt
 
 
-Running the pipeline
+Running the extraction and transformation pipeline
 
  1. Initialise the database schema
 python database_manager.py
