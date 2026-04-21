@@ -10,10 +10,10 @@ streamlit run app.py
 Parameters covered
 PM₂.₅, PM₁₀, NO₂, O₃, SO₂, CO, temperature, relative humidity, wind speed, wind direction
 
-Project structure
-├── app2.py                     # Streamlit dashboard
-├── SQL/
-│   ├── ddl/                    # Schema definitions (raw + presentation)
+Project structure  
+├── app2.py                     # Streamlit dashboard  
+├── SQL/  
+│   ├── ddl/                    # Schema definitions (raw + presentation)  
 │   └── dml/
 │       ├── raw/                # Extraction insert template
 │       └── presentation/       # Transformation SQL files (run in sorted order)
